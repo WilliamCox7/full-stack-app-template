@@ -1,1 +1,1 @@
-# BudgetApp
+# Full Stack App Template
