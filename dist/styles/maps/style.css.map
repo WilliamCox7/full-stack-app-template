@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","variables.scss"],"names":[],"mappings":"AAEA,IAAI,CAAC;EACH,UAAU,ECHO,IAAI,GDItB;;ACJD","file":"../style.css","sourcesContent":["@import 'variables';\r\n\r\nbody {\r\n  background: $background-black;\r\n}\r\n","$background-black: #333;\r\n"]}
